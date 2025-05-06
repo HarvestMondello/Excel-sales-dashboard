@@ -32,7 +32,7 @@ This project was inspired by data and a tutorial from Mo Chen’s [Youtube chann
 
 # Excel Dashboard
 
-![Excel Dashboard](https://github.com/HarvestMondello/coffee-sales-dashboard/blob/main/assets/Dashboard.png)
+![Excel Dashboard](https://github.com/HarvestMondello/coffee-sales-dashboard/blob/main/assets/excel-dashboard.png)
 
 
 # How I Built It
