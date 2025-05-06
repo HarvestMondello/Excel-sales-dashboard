@@ -29,7 +29,7 @@ This project was inspired by data and a tutorial from Mo Chen’s [Youtube chann
 - **GitHub and Git**: Version control and sharing of analysis, visualizations, and code.  
 - **ChatGPT**: Assisted with routine tasks and project efficiency.
 
-## Excel Dashboard
+# Excel Dashboard
 
 ![Excel Dashboard](https://github.com/HarvestMondello/coffee-sales-dashboard/blob/main/assets/Dashboard.png)
 
