@@ -13,7 +13,7 @@
 # Introduction
 Welcome to my Excel project. In this project I will look coffee sales to answer business questions. To answer theses questions I have developed an interactive dynamic Excel dashboard to analyze coffee sales, customer behavior, and profitability using automated data transformations and visual insights.
 
-Download the Excel file here: [data folder](https://github.com/HarvestMondello/coffee-sales-dashboard/blob/main/data/coffeeOrdersData-PQ.xlsm)
+Download the Excel file here - select view raw to download the Excel document: [data folder](https://github.com/HarvestMondello/coffee-sales-dashboard/blob/main/data/coffeeOrdersData-PQ.xlsm)
 
 # Background
 Many companies rely on Excel for day-to-day reporting, visualization and decision-making, so I built this dashboard to demonstrate how raw sales data can be transformed into actionable insights using the tools they already use.
