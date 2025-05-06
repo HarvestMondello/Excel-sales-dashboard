@@ -1,9 +1,8 @@
 # Excel Sales Dashboard in Excel
-Excel coffee sales 
 
 # Synopsis
 
-**Problem**: The company lacked a clear, consolidated view of orders, products, and profit trends to guide business decisions.
+**Problem**: The coffee company lacked a clear, consolidated view of orders, products, and profit trends to guide business decisions.
 
 **Solution**: An Excel dashboard was built using Power Query, PivotTables, and slicers to automate, aggregate, and visualize key metrics.
 
