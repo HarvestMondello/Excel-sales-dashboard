@@ -29,6 +29,7 @@ This project was inspired by data and a tutorial from Mo Chen’s [Youtube chann
 - **GitHub and Git**: Version control and sharing of analysis, visualizations, and code.  
 - **ChatGPT**: Assisted with routine tasks and project efficiency.
 
+
 # Excel Dashboard
 
 ![Excel Dashboard](https://github.com/HarvestMondello/coffee-sales-dashboard/blob/main/assets/Dashboard.png)
@@ -39,6 +40,8 @@ I began by cleaning and completing the source tables using Excel formulas such a
 Next, I used **Power Query** to join the three primary tables; orders, customers and products, into a single unified query.  
 I added calculated columns within Power Query to compute profits, monthly trends, and key metrics, automating data preparation across the file.  
 Finally, I built interactive **PivotTables** and **PivotCharts** on top of this clean dataset to uncover trends by customer, product, and region, and to highlight top contributors and profit patterns.
+
+I concluded the dashboard by creating a macro to print the repot to PDF. See the [macro code here in VBA](https://github.com/HarvestMondello/coffee-sales-dashboard/blob/main/vba/SaveReportAsPDF.bas).
 
 # Conclusion
 **Problem**: The company lacked a clear, consolidated view of orders, products, and profit trends to guide business decisions.
