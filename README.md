@@ -25,7 +25,7 @@ This project was inspired by data and a tutorial from Mo Chen’s [Youtube chann
 - **Power Query (M)**: Automated data transformation and monthly profit calculations.  
 - **VBA (Macros)**: Streamlined data refresh and automation tasks.  
 - **PivotCharts**: Interactive visual summaries.  
-- **Visual Studio Code (VS Code)**: Editing GitHub-facing files such as `README.md`, `.bas` (VBA modules), and license documentation.  
+- **Visual Studio Code (VS Code) & Markdown**: Editing GitHub-facing files such as `README.md`, `.bas` (VBA modules), and license documentation.  
 - **GitHub and Git**: Version control and sharing of analysis, visualizations, and code.  
 - **ChatGPT**: Assisted with routine tasks and project efficiency.
 
@@ -37,8 +37,11 @@ This project was inspired by data and a tutorial from Mo Chen’s [Youtube chann
 
 # How I Built It
 I began by cleaning and completing the source tables using Excel formulas such as `XLOOKUP`, `INDEX`, and `IF` to fill in missing values and derive necessary attributes.  
+
 Next, I used **Power Query** to join the three primary tables; orders, customers and products, into a single unified query.  
+
 I added calculated columns within Power Query to compute profits, monthly trends, and key metrics, automating data preparation across the file.  
+
 Finally, I built interactive **PivotTables** and **PivotCharts** on top of this clean dataset to uncover trends by customer, product, and region, and to highlight top contributors and profit patterns.
 
 I concluded the dashboard by creating a macro to print the repot to PDF. See the [macro code here in VBA](https://github.com/HarvestMondello/coffee-sales-dashboard/blob/main/vba/SaveReportAsPDF.bas).
