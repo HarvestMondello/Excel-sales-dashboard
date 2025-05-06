@@ -66,7 +66,7 @@ Monthly aggregation of coffee orders revealed clear seasonal patterns, with orde
 Using frequency counts in PivotTables, I identified top-selling products. Robusta and Excelsa consistently led in volume.
 
 **Customer Segmentation**
-Customer data was grouped to analyze purchase frequency and total spend. Loyalty customers—those with 10+ orders—were responsible for a large share of revenue, highlighting the value of repeat buyers.
+Customer data was grouped to analyze purchase frequency and total spend. Loyalty customers, those with 10+ orders were responsible for a large share of revenue, highlighting the value of repeat buyers.
 
 **Profitability and Margins**
 Gross profit per product was calculated using item costs and sales prices. The dashboard surfaced several low-volume items with high margins, indicating potential opportunities for targeted promotions.
