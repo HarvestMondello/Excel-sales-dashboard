@@ -1,4 +1,5 @@
-# Coffee Sales Dashboard in Excel
+# Excel Sales Dashboard in Excel
+Excel coffee sales 
 
 # Synopsis
 
