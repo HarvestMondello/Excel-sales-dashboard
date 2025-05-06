@@ -29,11 +29,12 @@ This project was inspired by data and a tutorial from Mo Chen’s [Youtube chann
 - **GitHub and Git**: Version control and sharing of analysis, visualizations, and code.  
 - **ChatGPT**: Assisted with routine tasks and project efficiency.
 
+## Excel Dashboard
+
 ![Excel Dashboard](https://github.com/HarvestMondello/coffee-sales-dashboard/blob/main/assets/Dashboard.png)
 
 
-## How I Built It
-
+# How I Built It
 I began by cleaning and completing the source tables using Excel formulas such as `XLOOKUP`, `INDEX`, and `IF` to fill in missing values and derive necessary attributes.  
 Next, I used **Power Query** to join the three primary tables; orders, customers and products, into a single unified query.  
 I added calculated columns within Power Query to compute profits, monthly trends, and key metrics, automating data preparation across the file.  
